@@ -1,3 +1,12 @@
-# ai_AUTOENCODER_S2TXT_JS_CORPUS
+# ai_LOCAL_TXTZ
 
-Exciting little Local Storage App, LOCALNOTEZ - to generate and store complex ai data easily. 
+Exciting little Local Storage App, for ai dev.
+Custom data labeling and classification system.
+
+- LOCAL_TXTZ- generate, save, edit complex ai data (easily).
+
+- VOICE to TXT
+  
+- VIDEO to TXT
+
+- TXT to TOKEN 
